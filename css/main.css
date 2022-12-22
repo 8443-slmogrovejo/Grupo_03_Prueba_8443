@@ -1,0 +1,18 @@
+.color{
+	color: black;
+	font-weight: bold;
+}
+.fondo{
+	background: white;
+	opacity: .7;
+	text-align: center;
+	padding: 50px;
+}
+.about_section{
+	background: #A6A6A6;
+}
+.centrado{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
